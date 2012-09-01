@@ -1,0 +1,441 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"para",
+				"paragraphs2"
+			],
+			[
+				"res",
+				"redblue_spider"
+			],
+			[
+				"sel",
+				"select"
+			],
+			[
+				"cle",
+				"clean_html"
+			],
+			[
+				"b",
+				"bypass_oath"
+			],
+			[
+				"data",
+				"database"
+			],
+			[
+				"auth",
+				"authenticated_user"
+			],
+			[
+				"lo",
+				"log"
+			],
+			[
+				"con",
+				"console"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "pijus/pijus/spiders/documentos_iu_spider.py",
+			"settings":
+			{
+				"buffer_size": 2225,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"In",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"git",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Package Control: List Packages"
+			],
+			[
+				"lua",
+				"Set Syntax: Lua"
+			],
+			[
+				"",
+				"Convert Case: Lower Case"
+			],
+			[
+				"sho",
+				"SublimeLinter: Show Error List"
+			],
+			[
+				"show ",
+				"SublimeLinter: Show Error List"
+			],
+			[
+				"Show",
+				"SublimeLinter: Show Error List"
+			],
+			[
+				"show",
+				"SublimeLinter: Show Error List"
+			],
+			[
+				"Ins",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 281.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/jm/dev/yo/github/RedOrBlue/src/pijus/pijus/spiders/noticiaspsoe_spider.py",
+		"/Users/jm/dev/yo/github/RedOrBlue/src/pijus/pijus/spiders/noticiaspsoe_spider copia.py",
+		"/Users/jm/dev/yo/github/RedOrBlue/src/ladrillo/ladrillo/spiders/noticiaspp_spider.py",
+		"/Users/jm/dev/yo/github/RedOrBlue/src/ladrillo/ladrillo/spiders/davidperez_spider.py",
+		"/Users/jm/dev/yo/github/RedOrBlue/src/pijus/pijus/spiders/parlamentuan_spider.py",
+		"/Users/jm/dev/yo/github/RedOrBlue/src/pijus/pijus/spiders/boletin_iu_spider.py",
+		"/Users/jm/dev/yo/github/RedOrBlue/src/redorblue_common/redorblue/redblue_spider.py",
+		"/Users/jm/dev/yo/github/RedOrBlue/src/pijus/pijus/spiders/pijus_spider.py",
+		"/Users/jm/dev/yo/github/RedOrBlue/src/ladrillo/ladrillo/spiders/ladrillo_spider.py",
+		"/Users/jm/dev/yo/github/RedOrBlue/src/redorblue_common/redorblue/redblue_items.py",
+		"/Users/jm/dev/yo/github/RedOrBlue/src/redorblue_common/redorblue/base_spider.py",
+		"/Users/jm/dev/yo/github/RedOrBlue/src/redorblue_common/setup.py",
+		"/Users/jm/dev/yo/github/RedOrBlue/src/common/base_spider.py",
+		"/Users/jm/dev/yo/github/RedOrBlue/src/common/base_items.py",
+		"/Users/jm/dev/yo/github/RedOrBlue/src/common/base_spider.pyc",
+		"/Users/jm/dev/yo/github/RedOrBlue/src/common/__init__.py",
+		"/Users/jm/Downloads/Archive/bayes.py",
+		"/Users/jm/dev/yo/github/RedOrBlue/src/pijus/scrapy.cfg",
+		"/Users/jm/dev/yo/github/RedOrBlue/src/pijus/pijus/settings.py",
+		"/Users/jm/dev/yo/github/RedOrBlue/src/dioni/dioni/spiders/dioni_spider.py",
+		"/Users/jm/dev/yo/github/RedOrBlue/src/pijus/pijus/pipelines.py",
+		"/Users/jm/dev/yo/github/RedOrBlue/src/pijus/pijus/items.py",
+		"/Users/jm/dev/yo/github/RedOrBlue/src/dioni/scrapy.cfg",
+		"/Users/jm/dev/yo/github/RedOrBlue/src/dioni/dioni/items.py",
+		"/Users/jm/dev/yo/github/RedOrBlue/src/dioni/dioni/pipelines.py",
+		"/Users/jm/dev/yo/github/RedOrBlue/src/dioni/dioni/settings.py",
+		"/Users/jm/dev/yo/github/RedOrBlue/src/dioni/dioni/spiders/pijus_spider.py",
+		"/Users/jm/Desktop/rabbit1.py",
+		"/Users/jm/Desktop/untitled.py",
+		"/Users/jm/dev/yo/github/RedOrBlue/src/ladrillo/ladrillo/items.py",
+		"/Users/jm/dev/yo/github/RedOrBlue/doc/tutorial/tutorial/items.py",
+		"/Users/jm/dev/yo/github/RedOrBlue/doc/tutorial/tutorial/spiders/dmoz_spider.py",
+		"/Users/jm/Desktop/emit_log.py",
+		"/Users/jm/Desktop/receive_log.py",
+		"/Users/jm/Desktop/rabbit1-srv.py",
+		"/Users/jm/Desktop/test1.py",
+		"/Users/jm/Library/Application Support/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/Users/jm/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Users/jm/Library/Application Support/Sublime Text 2/Packages/User/Python.sublime-settings",
+		"/Users/jm/dev/yo/github/CartoDB-SQL-API/app/models/metadata.js",
+		"/Users/jm/dev/unkasoft/svn/crm/upcrm/grails-app/conf/BootStrap.groovy",
+		"/Users/jm/dev/yo/backend/src/api/models.py",
+		"/Users/jm/Library/Application Support/Sublime Text 2/Packages/Package Control/Package Control.sublime-settings",
+		"/Users/jm/dev/yo/backend/src/urls.py",
+		"/Users/jm/dev/yo/backend/src/tales/__init__.py",
+		"/Users/jm/dev/yo/cuentorines/source/apple/engine/Classes/LuaPageController1.m",
+		"/Users/jm/dev/yo/github/CartoDB-SQL-API/app/controllers/app.js",
+		"/Users/jm/Library/Application Support/Sublime Text 2/Packages/Default/Default (OSX).sublime-keymap",
+		"/Users/jm/dev/yo/github/CartoDB-SQL-API/config/environments/development.js",
+		"/Users/jm/dev/yo/cuentorines/source/apple/learnstories/sample_tales/7D370DAA-A200-11DF-9EC6-58A9DFD72085/pages/7D370DAA-2.src",
+		"/Users/jm/Downloads/point-clustering/point-clustering/index.html",
+		"/Users/jm/dev/yo/github/CartoDB-SQL-API/app.js",
+		"/Users/jm/Library/Application Support/Sublime Text 2/Packages/SublimeLinter/SublimeLinter.sublime-settings",
+		"/Users/jm/Library/Application Support/Sublime Text 2/Packages/User/SublimeLinter.sublime-settings",
+		"/Users/jm/dev/yo/github/CartoDB-SQL-API/app/models/oauth.js",
+		"/Users/jm/dev/yo/github/CartoDB-SQL-API/app/models/apikey_auth.js",
+		"/Users/jm/dev/yo/github/CartoDB-SQL-API/app/models/psql.js",
+		"/Users/jm/dev/yo/github/CartoDB-SQL-API/node_modules/pg/lib/connection.js",
+		"/Users/jm/dev/yo/node_tests/express_test1/routes/index.js",
+		"/Users/jm/dev/yo/node_tests/express_test1/app.js",
+		"/Users/jm/Library/Application Support/Sublime Text 2/Packages/User/Distraction Free.sublime-settings",
+		"/Users/jm/dev/yo/node_tests/index.js",
+		"/Users/jm/dev/yo/node_tests/lib/helloworld.js"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"/Users/jm/dev/yo/github/RedOrBlue/src/ladrillo/ladrillo/spiders",
+			"/Users/jm/dev/yo/github/CartoDB-SQL-API,-node_modules",
+			"/Users/jm/dev/yo/github/CartoDB-SQL-API"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"é",
+			"á",
+			"ó",
+			"ú",
+			"mas",
+			"ó",
+			"í",
+			"é",
+			"á",
+			"mas",
+			"self",
+			"self.",
+			"por",
+			"tras",
+			",",
+			"la",
+			"Pyth",
+			"function",
+			"express",
+			"Cannot read property",
+			"Cannot",
+			"tableCache",
+			"bypass",
+			"bypass_oath",
+			"oauth_database",
+			"pass",
+			"password",
+			"getDatabase",
+			"db_base_name",
+			"pwd"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"i",
+			"e",
+			"a",
+			", ",
+			"bypass_oauth"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "pijus/pijus/spiders/documentos_iu_spider.py",
+					"settings":
+					{
+						"buffer_size": 2225,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1351,
+								1351
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110.0
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"indent": 1.0,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 0.0,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": false,
+							"sublimelinter_mark_style": "outline",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 8.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 35.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 124.0
+	},
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 233.0,
+	"status_bar_visible": true
+}
